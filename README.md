@@ -8,11 +8,12 @@ Este repositório contém o código-fonte e os recursos da nossa **calculadora**
 ## 🗂️ Estrutura do Diretório
 
 📁 **CF** (Código Fonte): Contém todos os arquivos do código-fonte do aplicativo e do jogo.
+📁 **Designer**: Elementos visuais do app e do jogo.
 📁 **UML**: Diagramas e modelagens UML para melhor visualização da estrutura do projeto.
+📁 **MBD**: Modelo de banco de dados.
+📁 **ICONS**: Ícones da interface
+📁 **ÚTEIS**: Materiais auxiliares.
 📁 **PPTX**: Apresentações e slides relacionados ao desenvolvimento do projeto.
-🎨 **Designer**: Elementos visuais do app e do jogo.
-🖼️ **Icons**: Ícones e imagens utilizadas na interface dos projetos.
-🛠️ **Uteis**: Scripts, guias e arquivos auxiliares que ajudam no desenvolvimento.
 
 ## 👥 Sobre a Estrategix
 
